@@ -3,6 +3,6 @@
 Playing with Helsinki opendata
 
 
-See (example)[src/helsinki_opendata/example.clj].
+See [example](src/helsinki_opendata/example.clj).
 
 
